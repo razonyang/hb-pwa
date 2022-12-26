@@ -1,0 +1,7 @@
+[module]
+
+[[module.imports]]
+path = "github.com/razonyang/hb-base"
+
+[[module.imports]]
+path = "github.com/razonyang/hugo-mod-pwa"
